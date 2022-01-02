@@ -3,4 +3,4 @@
 
 ![This is an image](Ice_Ptr.png)
 
-[^1]: You need to an uptodate compiler which supports c++20  
+[^1]: You need to an UpToDate compiler which supports c++20  
