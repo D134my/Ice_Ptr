@@ -1,5 +1,5 @@
 # Ice_Ptr ღ 
-> Yet another custom smart pointer written in modern c++[^1] .
+> Yet another custom smart pointer written in modern c++[^1] 
 
 ![This is an image](Ice_Ptr.png)
 
