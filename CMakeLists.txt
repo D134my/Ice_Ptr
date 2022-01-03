@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(Ice_Examples VERSION 1.0
-                     DESCRIPTION "my cutsom smart pointer"
+                     DESCRIPTION "my custom smart pointer"
                      LANGUAGES CXX )
 
 set(CMAKE_CXX_STANDARD 20)
